@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Davat+Analyist+and+AI+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Analyist+and+AI+Developer)](https://git.io/typing-svg)
 
 <!--
 **Uchan99/Uchan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
