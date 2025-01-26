@@ -1,5 +1,5 @@
 <div align= "center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uchan99)](https://github.com/Uchan99/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 </div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
