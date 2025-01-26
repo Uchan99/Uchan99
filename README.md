@@ -3,7 +3,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✏️ Studying .. </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
           <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
@@ -18,6 +18,8 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uchan99)](https://github.com/Uchan99/github-readme-stats)
     
 <!--
 **Uchan99/Uchan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
