@@ -1,4 +1,15 @@
+## 🔥 About Me
+- **허유찬** (2000.09.09)
+- Gachon Univ. (2019.03 - 2025.02), Major in Police Administration & Computer Engineering
+- Undergraduate Researcher in the **Security & Machine Learning Lab** (2024.03 - 2025.02) 
+- Field Task R&D Undergraduate Internship (2024.04 - 2024.07) 🏅
 
+---
+
+## 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=radical" />
+</p>
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
