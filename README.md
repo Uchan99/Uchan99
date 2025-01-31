@@ -1,6 +1,6 @@
 ## 🙋‍♂️ About Me
-- **허유찬** (2000.09.09)
-- Gachon Univ. (2019.03 - 2025.02), Major in Police Administration & Computer Engineering
+- **허유찬** (2000.09.09) - Data Analyist & AI Developer
+- Gachon Univ. (2019.03 - 2025.02), Major in **Police Administration & Computer Engineering**
 - Undergraduate Researcher in the **Security & Machine Learning Lab** (2024.03 - 2025.02) 
 - Field Task R&D Undergraduate Internship (2024.04 - 2024.07)
 
