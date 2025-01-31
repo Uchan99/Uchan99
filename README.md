@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## 🏅 Certificate
+## 📝 Certificate
 - 📈 **ADsP (데이터 분석 준전문가)** - 2024.11 ~ 
 - 🖥️ **정보처리기사** - 2024.06 ~
 - 📊 **SQLD (SQL 개발자)** - 2023.12 ~
