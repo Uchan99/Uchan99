@@ -1,8 +1,8 @@
-## 🙋‍♂️ About Me
-- **허유찬** (2000.09.09) - Data Analyist & AI Developer
-- Gachon Univ. (2019.03 - 2025.02), Major in **Police Administration & Computer Engineering**
-- Undergraduate Researcher in the **Security & Machine Learning Lab** (2024.03 - 2025.02) 
-- Field Task R&D Undergraduate Internship (2024.04 - 2024.07)
+## 🧑🏻‍💻 About Me
+- **허유찬** (2000.09.09) - Data Analyist & AI Developer 🚀
+- 🎓 Gachon Univ. (2019.03 - 2025.02), Major in **Police Administration & Computer Engineering** 👮‍♂️🖥️
+- Undergraduate Researcher in the **Security & Machine Learning Lab** (2024.03 - 2025.02) 🔬
+- Field Task R&D Undergraduate Internship (2024.04 - 2024.07) 🧪
 
 ---
 
@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uchan99&layout=compact&langs_count=8&theme=radical" />
 </p>
 
-## 💪 Main skills
+## 🛠 Main skills
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-### ETC
+### DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -83,9 +83,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-
-
 
 
     
