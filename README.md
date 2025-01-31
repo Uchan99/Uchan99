@@ -1,4 +1,4 @@
-## 🔥 About Me
+## 🙋‍♂️ About Me
 - **허유찬** (2000.09.09)
 - Gachon Univ. (2019.03 - 2025.02), Major in Police Administration & Computer Engineering
 - Undergraduate Researcher in the **Security & Machine Learning Lab** (2024.03 - 2025.02) 
@@ -71,9 +71,9 @@
 </p>
 
 ## 🏅 Certificate
-- 📈**ADsP (데이터 분석 준전문가)** - 2024.11 ~ 
+- 📈 **ADsP (데이터 분석 준전문가)** - 2024.11 ~ 
 - 🖥️ **정보처리기사** - 2024.06 ~
-- 📊**SQLD (SQL 개발자)** - 2023.12 ~   
+- 📊 **SQLD (SQL 개발자)** - 2023.12 ~
 
 ## 📩 Contact
 <p>
