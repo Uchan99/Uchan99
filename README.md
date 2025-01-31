@@ -7,7 +7,7 @@
 ---
 
 ## 📊 Most Used Languages
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uchan99&layout=compact&langs_count=8&theme=radical" />
 </p>
 
