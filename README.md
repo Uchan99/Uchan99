@@ -3,6 +3,7 @@
 - 🎓 **Gachon University** (Mar. 2019 - Feb. 2025), Major in **Police Administration & Computer Engineering** 👮‍♂️🖥️  
 - **Undergraduate Researcher** at the **Security & Machine Learning Lab** (Mar. 2024 - Feb. 2025) 🔬  
 - **Field Task R&D Undergraduate Intern** (Apr. 2024 - Jul. 2024) 🧪
+- **KT Aivle School** (Mar. 2025 - Sep. 2025) 🖥️
 ---
 
 ## 📊 Most Used Languages
