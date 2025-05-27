@@ -1,7 +1,6 @@
 ## 🧑🏻‍💻 About Me
 - **허유찬** (2000.09.09) - Data Analyst & AI Developer 🚀  
 - 🎓 **Gachon University** (Mar. 2019 - Feb. 2025), Major in **Police Administration & Computer Engineering** 👮‍♂️🖥️
-- 📘 **AI Study Group**(Theory Study, Paper and Code Reviews of ML/DL) (Dec. 2023 – Feb. 2025) 🔍
 - **Undergraduate Researcher** at the **Security & Machine Learning Lab** (Mar. 2024 - Feb. 2025) 🔬
 - **9th Big Data Analysis Society Member** (Sep. 2024 - Feb. 2025) 📊
 - **Field Task R&D Undergraduate Intern** (Apr. 2024 - Jul. 2024) 🧪
